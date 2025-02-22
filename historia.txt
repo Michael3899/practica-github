@@ -1,1 +1,1 @@
-111Hola, mi nombre es Michael Salazar y voy a generar un conflicto222
+Hola, mi nombre es Michael Salazar y arreglè el conflicto
